@@ -6,9 +6,10 @@ This is my solution for the course projects of the [Google Advanced Data Analyti
 
 Developing a regression model that helps estimate taxi fares before the ride based on New York's taxi trip record.
 
+<br>
 
 ## [TikTok - Claim video classification](./TikTok/TikTok%20project.ipynb)
 
-<img src="./TikTok/image.png" width="300">
+<img src="./TikTok/TikTok.png" width="400">
 
 Developing a machine learning model for classifying claims made in videos submitted to the platform.
