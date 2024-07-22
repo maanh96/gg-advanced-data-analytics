@@ -12,4 +12,4 @@ Developing a regression model that helps estimate taxi fares before the ride bas
 
 <img src="./TikTok/TikTok.png" width="400">
 
-Developing a machine learning model for classifying claims made in videos submitted to the platform.
+Developing a classification model to predict whether videos presented claims or opinions to improve triaging process of videos for human review.
